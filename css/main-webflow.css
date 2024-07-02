@@ -3743,7 +3743,7 @@ figcaption {
   font-size: 1.25rem;
 }
 .section_nft {
-  border-top: 1.5rem solid var(--brand--orange-light);
+  border-top: 1.5rem solid yellow;
   background-color: var(--background-color--background-tertiary);
   flex-direction: column;
   justify-content: center;
