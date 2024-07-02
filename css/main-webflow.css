@@ -2749,7 +2749,7 @@ figcaption {
   margin-right: auto;
 }
 .button {
-  border: 2px solid var(--neutral--white);
+  border: 2px solid yellow;
   background-color: var(--background-color--background-primary);
   color: var(--neutral--white);
   text-align: center;
@@ -2796,7 +2796,7 @@ figcaption {
   padding-bottom: 0.5rem;
 }
 .button.is-alternate {
-  border-color: var(--brand--blue);
+  border-color: yellow;
   background-color: var(--neutral--white);
   color: var(--text-color--text-primary);
 }
